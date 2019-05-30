@@ -10,7 +10,7 @@
     </mt-header>
 
 
-    <!-- 中间的 路由 router-view 区域 -->
+    <!-- 中间的 路由 router-view 区域 -->  
 		<transition>
 			<router-view></router-view>
 		</transition>
@@ -24,7 +24,7 @@
 			</router-link>
 			<router-link class="mui-tab-item-llb" to="/member">
 				<span class="mui-icon mui-icon-contact"></span>
-				<span class="mui-tab-label">会员</span>
+				<span class="mui-tab-label">社区</span>
 			</router-link>
 			<router-link class="mui-tab-item-llb" to="/shopcar">
 				<span class="mui-icon mui-icon-extra mui-icon-extra-cart">
